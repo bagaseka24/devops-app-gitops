@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: ghcr.io/bagaseka24/pretest-devops-bagas:7a5c3b5
+        image: ghcr.io/bagaseka24/pretest-devops-bagas:76770d5
         imagePullPolicy: Never
         ports:
         - containerPort: 9090
