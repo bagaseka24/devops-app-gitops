@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: ghcr.io/bagaseka24/golang-app:c597f26
+        image: ghcr.io/bagaseka24/golang-app:cd863dd
         imagePullPolicy: Never
         ports:
         - containerPort: 9090
